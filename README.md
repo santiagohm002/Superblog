@@ -1,18 +1,18 @@
-# Superblog :fa-envelope-o: :
+# Superblog :
 
 >Bienvenido a Superblog, un espacio dedicado a compartir conocimientos y experiencias sobre el uso de Git y GitHub.
 
-### Acerca del Proyecto :fa-pencil-square-o:
+### Acerca del Proyecto
 
 >Este blog es un proyecto creado como parte del curso de Git y GitHub de Platzi. Aquí encontrarás artículos, que te ayudarán a entender y dominar estas herramientas esenciales para el desarrollo de software.
 
-### Tecnologías Utilizadas :fa-github-square:
+### Tecnologías Utilizadas
 
 - **Git**: Sistema de control de versiones distribuido.
 - **GitHub**: Plataforma de hospedaje de código para control de versiones y colaboración.
 - **Visual_Code**: Aplicación para agregar, editar y guardar los codigos.
 
-### Cómo Contribuir :fa-comments:
+### Cómo Contribuir
 
 >Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
@@ -23,7 +23,7 @@
 5. Abre una nueva Pull Request.
 
 
-### Contacto :fa-user:
+### Contacto
 
 Si tienes alguna pregunta o comentario, no dudes en escribir al discord @santiagohm02.
 
